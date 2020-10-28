@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Host: law2.ru
+Sitemap: http://law2.ru/sitemap_bill_1.xml
+Sitemap: http://law2.ru/sitemap_public_discussion_1.xml
